@@ -1,0 +1,20 @@
+img {
+    max-height: 250px;
+    max-width: 350px;
+}
+
+div {
+    margin: 50px;
+    display: inline-block;
+}
+
+div div {
+    width: 750px;
+    background-color:dimgray;
+    margin-bottom: 20px;
+    max-width: 1000px;
+    border-radius: 25px;
+    border-color: black;
+    
+}
+
